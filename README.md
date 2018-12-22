@@ -3,7 +3,7 @@
 
 You can install [`ahmedalaahagag/mobily-api`](https://packagist.org/packages/ahmedalaahagag/mobily-api)  via composer or by typing in command line  
 ```text
-composer require mobily-ws/api
+composer require ahmedalaahagag/mobily-api
 ```
 
 **OR**   include require in **composer.json** 
